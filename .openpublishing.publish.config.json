@@ -6,12 +6,12 @@
     ]
   },
   "branches_to_filter": [
-    "live-sxs",
+    "live",
     "master-sxs"
   ],
   "continue_with_document_error": true,
   "contribution_branch_mappings": {
-    "live-sxs-sxs": "live-sxs"
+    "live": "live-sxs"
   },
   "dependent_repositories": [
     {
